@@ -21,4 +21,4 @@ Each lab includes step by step documentation, screenshots, and honest notes on w
 
 ## About
 
-Built as part of a focused IT job search sprint. Labs are designed to reflect real help desk tasks and are documented the same way I would document work in a professional environment.
+IT home lab portfolio documenting hands-on help desk skills including remote access, ticketing, Active Directory administration, and network troubleshooting. Built on Windows 11 with VirtualBox, Windows 10 Pro, and Windows Server 2022.
