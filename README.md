@@ -7,7 +7,7 @@ Each lab includes step by step documentation, screenshots, and honest notes on w
 ## Labs
 
 - Lab 1: RDP Remote Access
-- Lab 2: osTicket Help Desk Ticketing System
+- Lab 2: Spiceworks Cloud Help Desk Ticketing System
 - Lab 3: Active Directory User Management
 - Lab 4: Network Troubleshooting
 
